@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the HHS.Gov Content Type Leadership BIo feature.
+ */
+
+include_once 'hhs_gov_content_type_leadership_bio.features.inc';
